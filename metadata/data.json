@@ -3,7 +3,9 @@
        {
            "loader_url": "https://github.com/goxome/aline-updater/raw/refs/heads/main/api/aline.apk",
            "loader_size": 1241483,
-           "loader_sha1": ""
+           "loader_sha1": "",
+           "loader_class": "",
+           "loader_method": ""
        }
    ]
 }
